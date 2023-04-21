@@ -1,0 +1,17 @@
+
+
+h1{
+    background-color: rgb(190, 99, 218);
+    font-family: fantasy;
+    color: aqua;
+}
+
+p{  
+    background-color: black;
+    font-size: larger;
+    color: azure;
+}
+
+input{ background-color: springgreen;}
+
+body{background-image: url(https://i.ytimg.com/vi/YofZmdWNmVg/maxresdefault.jpg)}
